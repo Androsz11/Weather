@@ -1,5 +1,4 @@
 #!/bin/bash
-pkg update && pkg upgrade
 apt update && apt upgrade
 apt install figlet
 apt install ruby
