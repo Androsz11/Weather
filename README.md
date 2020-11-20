@@ -1,5 +1,5 @@
 # Weather
-By this program you can see weather in termux.
+By this program you can see weather in termux and linux.
 To install this program type:-
 
 apt update && apt upgrade
